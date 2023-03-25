@@ -1,0 +1,5 @@
+PyWavelets
+matplotlib
+numpy
+PyQt5
+opencv-python
